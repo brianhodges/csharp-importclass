@@ -11,7 +11,7 @@ namespace csharp_importclass
             string[] states2 = { "Durango", "Puebla", "Guerrero", "Quintana Roo" };
             City c1 = new City { name = "Los Angeles", population = "4 million" };
             City c2 = new City { name = "Cancun", population = "700,000" };
-			object[] countries = {
+			Country[] countries = {
                 new Country{
                     name="USA",
                     population="350 million",

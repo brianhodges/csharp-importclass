@@ -14533,10 +14533,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Development/Projects/csharp-importclass/csharp-importclass/csharp-importclass.csproj",
+      "projectUniqueName": "/Users/Development/Desktop/csharp-importclass/csharp-importclass/csharp-importclass.csproj",
       "projectName": "csharp-importclass",
-      "projectPath": "/Users/Development/Projects/csharp-importclass/csharp-importclass/csharp-importclass.csproj",
-      "outputPath": "/Users/Development/Projects/csharp-importclass/csharp-importclass/obj",
+      "projectPath": "/Users/Development/Desktop/csharp-importclass/csharp-importclass/csharp-importclass.csproj",
+      "outputPath": "/Users/Development/Desktop/csharp-importclass/csharp-importclass/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
