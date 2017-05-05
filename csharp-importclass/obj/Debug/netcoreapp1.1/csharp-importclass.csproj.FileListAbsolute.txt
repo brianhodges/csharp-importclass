@@ -1,0 +1,10 @@
+/Users/Development/Projects/csharp-importclass/csharp-importclass/bin/Debug/netcoreapp1.1/csharp-importclass.deps.json
+/Users/Development/Projects/csharp-importclass/csharp-importclass/bin/Debug/netcoreapp1.1/csharp-importclass.runtimeconfig.json
+/Users/Development/Projects/csharp-importclass/csharp-importclass/bin/Debug/netcoreapp1.1/csharp-importclass.runtimeconfig.dev.json
+/Users/Development/Projects/csharp-importclass/csharp-importclass/obj/Debug/netcoreapp1.1/csharp-importclass.csprojResolveAssemblyReference.cache
+/Users/Development/Projects/csharp-importclass/csharp-importclass/obj/Debug/netcoreapp1.1/csharp-importclass.csproj.CoreCompileInputs.cache
+/Users/Development/Projects/csharp-importclass/csharp-importclass/obj/Debug/netcoreapp1.1/csharp-importclass.AssemblyInfo.cs
+/Users/Development/Projects/csharp-importclass/csharp-importclass/bin/Debug/netcoreapp1.1/csharp-importclass.dll
+/Users/Development/Projects/csharp-importclass/csharp-importclass/bin/Debug/netcoreapp1.1/csharp-importclass.pdb
+/Users/Development/Projects/csharp-importclass/csharp-importclass/obj/Debug/netcoreapp1.1/csharp-importclass.dll
+/Users/Development/Projects/csharp-importclass/csharp-importclass/obj/Debug/netcoreapp1.1/csharp-importclass.pdb
